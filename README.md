@@ -1,2 +1,1 @@
-# Staking
-Cardano Staking Pool
+
